@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
@@ -40,6 +40,10 @@ permalink: /about/
     height: 32px;
     margin-right: 1rem;
   }
+
+  .site-footer {
+    display: none;
+  }
   
   @media (max-width: 768px) {
     .about-container {
@@ -60,6 +64,20 @@ permalink: /about/
     <p>
       Let's collaborate and create amazing web experiences together!
     </p>
+    <div class="social-links">
+       <a href="https://twitter.com/dvcoolarun" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" class="social-icon">
+      </a>
+      <a href="https://github.com/dvcoolarun" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" class="social-icon">
+      </a>
+      <a href="https://www.linkedin.com/in/dvcoolarun/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" class="social-icon">
+      </a>
+      <a href="mailto:dvcoolarun@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" class="social-icon">
+      </a>
+    </div>
   </div>
   <div class="about-image">
     <img src="https://avatars.githubusercontent.com/u/9693884?v=4" alt="Profile Picture" class="profile-picture">
