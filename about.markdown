@@ -1,10 +1,13 @@
 ---
 layout: page
-title:
+title: About
 permalink: /about/
 ---
 
 <style>
+  .post-header {
+    display: none;
+  }
   .about-container {
     display: flex;
     flex-wrap: wrap;
