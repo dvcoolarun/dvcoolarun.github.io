@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Focus"
+date:   2024-09-19
+categories: focus
+---
