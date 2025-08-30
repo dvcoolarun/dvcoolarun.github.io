@@ -305,15 +305,6 @@ permalink: /about/
   </style>    
   
   <div class="container">
-          <div class="header-nav">
-              <a href="#" class="blog-title">Arun's Blog</a>
-              <div class="nav-links">
-                  <a href="#resume">Resume</a>
-                  <a href="#blog">Blog Archive</a>
-                  <a href="#bookmarks">Bookmarks</a>
-              </div>
-          </div>
-          
           <div class="profile-section">
               <div class="profile-image"></div>
               <h1 class="name">Arun Kumar<span class="credentials">, MCA</span></h1>
