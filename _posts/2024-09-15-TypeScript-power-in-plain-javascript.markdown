@@ -5,6 +5,21 @@ date:   2024-09-02
 categories: typescript jsdoc
 ---
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+<style>
+body {
+  background-color: #2b2b2b;
+  color: #d4d4d4;
+  font-family: "Roboto Mono", monospace;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+</style>
+
 In the ever-evolving landscape of JavaScript development, static typing has become increasingly popular, with TypeScript leading the charge. But what if you could harness the power of TypeScript without fully committing to it? Enter JSDoc typings - a hidden gem that allows you to leverage TypeScript's benefits while writing plain JavaScript. Let's dive into this powerful technique and see how it can revolutionize your coding experience.
 
 ## What is JSDoc Typing?
