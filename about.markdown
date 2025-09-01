@@ -5,21 +5,24 @@ permalink: /about/
 ---
   
   <style>
-    body {
-              background-color: #2b2b2b;
-              color: #d4d4d4;
-              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-              line-height: 1.5;
-              margin: 0;
-              padding: 0;
-              font-size: 16px;
-          }
-          
-          .container {
-              max-width: 1000px;
-              margin: 0 auto;
-              padding: 50px 40px;
-          }
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background-color: #2b2b2b;
+        color: #d4d4d4;
+        font-family: "Roboto Mono", monospace;
+        line-height: 1.5;
+        margin: 0;
+        padding: 0;
+        font-size: 16px;
+      }
+      .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 50px 40px;
+      }
           
           .header-nav {
               display: flex;
