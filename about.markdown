@@ -58,7 +58,7 @@ body {
               height: 200px;
               border-radius: 50%;
               background-color: #555;
-              background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><circle cx="100" cy="100" r="100" fill="%23666"/><circle cx="100" cy="80" r="30" fill="%23888"/><ellipse cx="100" cy="150" rx="50" ry="30" fill="%23888"/></svg>');
+              background-image: url('https://avatars.githubusercontent.com/u/9693884?v=4')
               background-size: cover;
               margin: 0 auto 30px;
           }
