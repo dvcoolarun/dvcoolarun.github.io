@@ -58,7 +58,7 @@ body {
               height: 200px;
               border-radius: 50%;
               background-color: #555;
-              background-image: url('https://avatars.githubusercontent.com/u/9693884?v=4')
+              background-image: url('https://avatars.githubusercontent.com/u/9693884?v=4');
               background-size: cover;
               margin: 0 auto 30px;
           }
