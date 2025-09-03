@@ -17,6 +17,14 @@ body {
   padding: 0;
   font-size: 16px;
 }
+
+mark {
+  background-color: #4a90e2;
+  color: #ffffff;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
           
           .header-nav {
               display: flex;
@@ -304,12 +312,12 @@ body {
   <div class="container">
           <div class="profile-section">
               <div class="profile-image"></div>
-              <h1 class="name">Arun Kumar<span class="credentials">, MCA</span></h1>
+              <h1 class="name">Arun Kumar<span class="credentials">, <mark>MCA</mark></span></h1>
               <p class="email">arunjsdev@gmail.com</p>
           </div>
           
           <div class="title-section">
-              <h2 class="job-title">Frontend Developer</h2>
+              <h2 class="job-title"><mark>Frontend Developer</mark></h2>
               <div class="social-icons">
                   <a href="tel:+917206681784" title="Phone">📞</a>
                   <a href="https://github.com/dvcoolarun" title="GitHub">🔗</a>
@@ -319,12 +327,12 @@ body {
           </div>
           
           <div class="description">
-              Motivated and versatile frontend developer with expertise in Python, React/Next, and TypeScript. 
-              Bringing 7+ years of experience in both B2B/B2C environments delivering web applications. 
-              Proven track record in managing teams and collaborating with startups. Always looking for new 
-              challenges and new technologies to learn. Experienced with the software development life cycle 
-              (SDLC) utilizing various project management methodologies including Agile, Scrum and Kanban. 
-              Efficient working both independently and in a team environment.
+              Motivated and versatile frontend developer with expertise in <mark>Python, React/Next, and TypeScript</mark>. 
+              Bringing <mark>7+ years of experience</mark> in both <mark>B2B/B2C environments</mark> delivering web applications. 
+              Proven track record in <mark>managing teams</mark> and collaborating with startups. Always looking for new 
+              challenges and new technologies to learn. Experienced with the <mark>software development life cycle 
+              (SDLC)</mark> utilizing various project management methodologies including <mark>Agile, Scrum and Kanban</mark>. 
+              Efficient working both <mark>independently and in a team environment</mark>.
           </div>
           
           <div class="contact-section">
@@ -336,22 +344,22 @@ body {
               
               <div class="skill-item">
                   <h3 class="skill-title">Frontend Development & Programming</h3>
-                  <p class="skill-description">7+ years of experience in JavaScript, TypeScript, Python, and Node.js. Expert in building scalable web applications using React, Redux/RTK, React-Query, NextJS, and modern ES6+ features. Proficient in HTML, CSS, TailWind CSS, and responsive design principles.</p>
+                  <p class="skill-description"><mark>7+ years of experience</mark> in <mark>JavaScript, TypeScript, Python, and Node.js</mark>. Expert in building scalable web applications using <mark>React, Redux/RTK, React-Query, NextJS</mark>, and modern <mark>ES6+ features</mark>. Proficient in <mark>HTML, CSS, TailWind CSS</mark>, and responsive design principles.</p>
               </div>
               
               <div class="skill-item">
                   <h3 class="skill-title">Web Technologies & Frameworks</h3>
-                  <p class="skill-description">Extensive experience with React ecosystem, GraphQL integration, Django backend development, and modern build tools. Skilled in creating component libraries, implementing CI/CD pipelines, and managing state with Redux/RTK and React-Query.</p>
+                  <p class="skill-description">Extensive experience with <mark>React ecosystem</mark>, <mark>GraphQL integration</mark>, <mark>Django backend development</mark>, and modern build tools. Skilled in creating <mark>component libraries</mark>, implementing <mark>CI/CD pipelines</mark>, and managing state with <mark>Redux/RTK and React-Query</mark>.</p>
               </div>
               
               <div class="skill-item">
                   <h3 class="skill-title">Testing & Database Management</h3>
-                  <p class="skill-description">Expert in end-to-end testing frameworks including Cypress and Playwright. Experience with SQL databases (PostgreSQL, SQLite), SupaBase, and ensuring high-quality code through comprehensive testing strategies and database optimization.</p>
+                  <p class="skill-description">Expert in <mark>end-to-end testing frameworks</mark> including <mark>Cypress and Playwright</mark>. Experience with <mark>SQL databases (PostgreSQL, SQLite)</mark>, <mark>SupaBase</mark>, and ensuring high-quality code through <mark>comprehensive testing strategies</mark> and database optimization.</p>
               </div>
               
               <div class="skill-item">
                   <h3 class="skill-title">Tools & Technologies</h3>
-                  <p class="skill-description">AWS Services • Git/GitHub • Linux • RESTful APIs • WordPress • Web Performance Optimization • Accessibility Standards • jQuery • Selenium/Protractor • CI/CD Pipelines • Agile Development Practices</p>
+                  <p class="skill-description"><mark>AWS Services</mark> • <mark>Git/GitHub</mark> • <mark>Linux</mark> • <mark>RESTful APIs</mark> • WordPress • <mark>Web Performance Optimization</mark> • <mark>Accessibility Standards</mark> • jQuery • Selenium/Protractor • <mark>CI/CD Pipelines</mark> • <mark>Agile Development Practices</mark></p>
               </div>
           </div>
           
@@ -367,11 +375,11 @@ body {
                   </div>
                   <p class="company-description">Specializes in launching and managing brands on Walmart.com.</p>
                   
-                  <p class="role-info">Frontend Developer • Dec 2024 – Present</p>
-                  <p class="role-description">Currently leading frontend development initiatives for e-commerce platform optimization and team management using modern web technologies.</p>
+                  <p class="role-info">Frontend Developer • <mark>Dec 2024 – Present</mark></p>
+                  <p class="role-description">Currently <mark>leading frontend development initiatives</mark> for e-commerce platform optimization and <mark>team management</mark> using modern web technologies.</p>
                   <ul class="achievements">
-                      <li>Engineered an Item Dimensions feature with live editing and synchronization, handling both the frontend & backend using an iterative approach with stakeholders</li>
-                      <li>Supervised the team, enhancing efficiency through Agile practices, and overseeing the development, and maintenance of scalable frontend applications</li>
+                      <li>Engineered an <mark>Item Dimensions feature with live editing and synchronization</mark>, handling both <mark>the frontend & backend</mark> using an iterative approach with stakeholders</li>
+                      <li><mark>Supervised the team</mark>, enhancing efficiency through <mark>Agile practices</mark>, and overseeing the development, and maintenance of <mark>scalable frontend applications</mark></li>
                   </ul>
               </div>
               
@@ -384,15 +392,15 @@ body {
                   </div>
                   <p class="company-description">Digital company with a primary focus on building software solutions for startups.</p>
                   
-                  <p class="role-info">Frontend Developer • Dec 2018 – Dec 2024 • 6 yrs</p>
-                  <p class="role-description">Led frontend development for multiple startup projects, focusing on conversion optimization, component architecture, and team mentorship. Specialized in TypeScript migration and modern React development practices.</p>
+                  <p class="role-info">Frontend Developer • <mark>Dec 2018 – Dec 2024 • 6 yrs</mark></p>
+                  <p class="role-description">Led frontend development for <mark>multiple startup projects</mark>, focusing on <mark>conversion optimization</mark>, <mark>component architecture</mark>, and <mark>team mentorship</mark>. Specialized in <mark>TypeScript migration</mark> and modern React development practices.</p>
                   <ul class="achievements">
-                      <li>Architected a Conversion Optimization Tool that boosted conversions through data tracking, proof-of-concept to production, implementing CI/CD pipelines and rigorous testing to ensure high-quality deployments</li>
-                      <li>Implemented a component library for a Travel B2B product, reducing development time by 30%, improving code reuse across eight product modules</li>
-                      <li>Spearheaded the transition from non-type to type-safe projects, improving overall code quality and maintainability while mentoring team members</li>
-                      <li>Collaborated with the backend team, providing technical and API design insights</li>
+                      <li>Architected a <mark>Conversion Optimization Tool</mark> that <mark>boosted conversions</mark> through data tracking, proof-of-concept to production, implementing <mark>CI/CD pipelines</mark> and rigorous testing to ensure <mark>high-quality deployments</mark></li>
+                      <li>Implemented a <mark>component library</mark> for a Travel B2B product, <mark>reducing development time by 30%</mark>, improving code reuse across <mark>eight product modules</mark></li>
+                      <li>Spearheaded the transition from <mark>non-type to type-safe projects</mark>, improving overall <mark>code quality and maintainability</mark> while <mark>mentoring team members</mark></li>
+                      <li>Collaborated with the backend team, providing <mark>technical and API design insights</mark></li>
                   </ul>
-                  <p class="tech-stack">( Tech Stack: TypeScript, Python/Django, React, ES6/JavaScript, Redux/RTK, NextJS, GraphQl, HTML, CSS, TailWind, React-Query, AWS, Cypress, Playwright, Accessibility )</p>
+                  <p class="tech-stack">( Tech Stack: <mark>TypeScript, Python/Django, React, ES6/JavaScript, Redux/RTK, NextJS, GraphQl, HTML, CSS, TailWind, React-Query, AWS, Cypress, Playwright, Accessibility</mark> )</p>
               </div>
               
               <div class="experience-item">
@@ -403,14 +411,14 @@ body {
                       </div>
                   </div>
                   
-                  <p class="role-info">Frontend Developer • Dec 2015 – Jun 2016 • 6 mos</p>
-                  <p class="role-description">Focused on developing industry-specific themes and implementing comprehensive testing frameworks for enhanced user engagement.</p>
+                  <p class="role-info">Frontend Developer • <mark>Dec 2015 – Jun 2016 • 6 mos</mark></p>
+                  <p class="role-description">Focused on developing <mark>industry-specific themes</mark> and implementing <mark>comprehensive testing frameworks</mark> for enhanced user engagement.</p>
                   <ul class="achievements">
-                      <li>Developed industry-specific store themes with a modular architecture, enabling customization and reducing deployment time from days to hours</li>
-                      <li>Implemented end-to-end testing framework achieving 85% test coverage and reducing QA cycles by 50%</li>
-                      <li>Revamped website flows, reducing misdirected queries and significantly enhancing user engagement on previously neglected pages</li>
+                      <li>Developed <mark>industry-specific store themes</mark> with a <mark>modular architecture</mark>, enabling customization and <mark>reducing deployment time from days to hours</mark></li>
+                      <li>Implemented <mark>end-to-end testing framework</mark> achieving <mark>85% test coverage</mark> and <mark>reducing QA cycles by 50%</mark></li>
+                      <li>Revamped website flows, <mark>reducing misdirected queries</mark> and significantly <mark>enhancing user engagement</mark> on previously neglected pages</li>
                   </ul>
-                  <p class="tech-stack">( Tech Stack: JavaScript, JQuery, Angular, HTML, CSS, Selenium/Protractor )</p>
+                  <p class="tech-stack">( Tech Stack: <mark>JavaScript, JQuery, Angular, HTML, CSS, Selenium/Protractor</mark> )</p>
               </div>
               
               <div class="experience-item">
@@ -421,12 +429,12 @@ body {
                       </div>
                   </div>
                   
-                  <p class="role-info">Frontend Developer • Jun 2015 – Nov 2015 • 5 mos</p>
+                  <p class="role-info">Frontend Developer • <mark>Jun 2015 – Nov 2015 • 5 mos</mark></p>
                   <ul class="achievements">
-                      <li>Established front-end development standards and comprehensive documentation, fostering consistency across projects</li>
-                      <li>Revamped 10 WordPress sites by optimizing web vitals, resulting in a 40% increase in page load speed and significantly improving user engagement</li>
+                      <li>Established <mark>front-end development standards</mark> and <mark>comprehensive documentation</mark>, fostering consistency across projects</li>
+                      <li>Revamped <mark>10 WordPress sites</mark> by <mark>optimizing web vitals</mark>, resulting in a <mark>40% increase in page load speed</mark> and significantly <mark>improving user engagement</mark></li>
                   </ul>
-                  <p class="tech-stack">( Tech Stack: WordPress, CSS, Sketch, HTML, JavaScript, JQuery, Web Performance )</p>
+                  <p class="tech-stack">( Tech Stack: <mark>WordPress, CSS, Sketch, HTML, JavaScript, JQuery, Web Performance</mark> )</p>
               </div>
           </div>
           
@@ -435,8 +443,8 @@ body {
               
               <div class="education-item">
                   <h3 class="education-title">MD University</h3>
-                  <p class="education-details">Master of Computer Applications (MCA) • 2013 — 2015</p>
-                  <p class="education-description">Focused on Computer Science Engineering with comprehensive coverage of software development principles, algorithms, and modern programming methodologies.</p>
+                  <p class="education-details"><mark>Master of Computer Applications (MCA)</mark> • <mark>2013 — 2015</mark></p>
+                  <p class="education-description">Focused on <mark>Computer Science Engineering</mark> with comprehensive coverage of <mark>software development principles, algorithms, and modern programming methodologies</mark>.</p>
               </div>
           </div>
           
@@ -444,15 +452,15 @@ body {
               <h2 class="section-title">Personal Projects</h2>
               
               <div class="experience-item">
-                  <span class="project-title">Web2PDF</span>
+                  <span class="project-title"><mark>Web2PDF</mark></span>
                   <p class="role-info">Developer • Personal Project</p>
-                  <p class="role-description">Developed a Python-based tool to convert web articles into PDF format, which gained popularity and was adopted by hundreds of users. The project demonstrates expertise in Python development, web scraping, and document processing.</p>
+                  <p class="role-description">Developed a <mark>Python-based tool</mark> to convert web articles into PDF format, which <mark>gained popularity and was adopted by hundreds of users</mark>. The project demonstrates expertise in <mark>Python development, web scraping, and document processing</mark>.</p>
               </div>
           </div>
           
           <div class="section">
               <h2 class="section-title">Outside Interests</h2>
-              <p class="role-description">In my free time I enjoy contributing to open source projects and building innovative web applications. I'm passionate about staying current with the latest frontend technologies, participating in developer communities, and sharing knowledge through technical writing. I also enjoy working on personal projects that explore new frameworks and development patterns, particularly in the React ecosystem and modern JavaScript development.</p>
+              <p class="role-description">In my free time I enjoy <mark>contributing to open source projects</mark> and building <mark>innovative web applications</mark>. I'm passionate about <mark>staying current with the latest frontend technologies</mark>, participating in <mark>developer communities</mark>, and sharing knowledge through <mark>technical writing</mark>. I also enjoy working on <mark>personal projects</mark> that explore new frameworks and development patterns, particularly in the <mark>React ecosystem and modern JavaScript development</mark>.</p>
           </div>
           
           <div class="section">
