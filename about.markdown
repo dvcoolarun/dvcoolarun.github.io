@@ -465,7 +465,7 @@ mark {
           <div class="section">
               <h2 class="section-title">Additional Links</h2>
               <ul class="links-list">
-                  <li>LinkedIn: <a href="https://linkedin.com/in/arun-kumar">linkedin.com/in/arun-kumar</a></li>
+                  <li>LinkedIn: <a href="https://linkedin.com/in/dvcoolarun">linkedin.com/in/dvcoolarun</a></li>
                   <li>GitHub: <a href="https://github.com/dvcoolarun">github.com/dvcoolarun</a></li>
                   <li>Email: <a href="mailto:arunjsdev@gmail.com">arunjsdev@gmail.com</a></li>
                   <li>Phone: <a href="tel:+917206681784">+91 7206681784</a></li>
