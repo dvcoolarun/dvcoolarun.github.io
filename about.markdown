@@ -25,6 +25,9 @@ mark {
   border-radius: 3px;
   font-weight: 500;
 }
+.post-title {
+  display: none;
+}
           
           .header-nav {
               display: flex;
