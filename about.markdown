@@ -325,7 +325,7 @@ mark {
                   <a href="tel:+917206681784" title="Phone">📞</a>
                   <a href="https://github.com/dvcoolarun" title="GitHub">🔗</a>
                   <a href="https://twitter.com/dvcoolarun" title="Twitter">🐦</a>
-                  <a href="https://linkedin.com/in/arun-kumar" title="LinkedIn">💼</a>
+                  <a href="https://linkedin.com/in/dvcoolarun" title="LinkedIn">💼</a>
               </div>
           </div>
           
