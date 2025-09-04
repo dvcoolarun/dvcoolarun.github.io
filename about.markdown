@@ -339,30 +339,6 @@ mark {
           </div>
           
           <div class="section">
-              <h2 class="section-title">Skills</h2>
-              
-              <div class="skill-item">
-                  <h3 class="skill-title">Frontend Development & Programming</h3>
-                  <p class="skill-description"><mark>7+ years of experience</mark> in <mark>JavaScript, TypeScript, Python, and Node.js</mark>. Expert in building scalable web applications using <mark>React, Redux/RTK, React-Query, NextJS</mark>, and modern <mark>ES6+ features</mark>. Proficient in <mark>HTML, CSS, TailWind CSS</mark>, and responsive design principles.</p>
-              </div>
-              
-              <div class="skill-item">
-                  <h3 class="skill-title">Web Technologies & Frameworks</h3>
-                  <p class="skill-description">Extensive experience with <mark>React ecosystem</mark>, <mark>GraphQL integration</mark>, <mark>Django backend development</mark>, and modern build tools. Skilled in creating <mark>component libraries</mark>, implementing <mark>CI/CD pipelines</mark>, and managing state with <mark>Redux/RTK and React-Query</mark>.</p>
-              </div>
-              
-              <div class="skill-item">
-                  <h3 class="skill-title">Testing & Database Management</h3>
-                  <p class="skill-description">Expert in <mark>end-to-end testing frameworks</mark> including <mark>Cypress and Playwright</mark>. Experience with <mark>SQL databases (PostgreSQL, SQLite)</mark>, <mark>SupaBase</mark>, and ensuring high-quality code through <mark>comprehensive testing strategies</mark> and database optimization.</p>
-              </div>
-              
-              <div class="skill-item">
-                  <h3 class="skill-title">Tools & Technologies</h3>
-                  <p class="skill-description"><mark>AWS Services</mark> • <mark>Git/GitHub</mark> • <mark>Linux</mark> • <mark>RESTful APIs</mark> • WordPress • <mark>Web Performance Optimization</mark> • <mark>Accessibility Standards</mark> • jQuery • Selenium/Protractor • <mark>CI/CD Pipelines</mark> • <mark>Agile Development Practices</mark></p>
-              </div>
-          </div>
-          
-          <div class="section">
               <h2 class="section-title">Experience</h2>
               
               <div class="experience-item">
@@ -434,6 +410,30 @@ mark {
                       <li>Revamped <mark>10 WordPress sites</mark> by <mark>optimizing web vitals</mark>, resulting in a <mark>40% increase in page load speed</mark> and significantly <mark>improving user engagement</mark></li>
                   </ul>
                   <p class="tech-stack">( Tech Stack: <mark>WordPress, CSS, Sketch, HTML, JavaScript, JQuery, Web Performance</mark> )</p>
+              </div>
+          </div>
+
+                    <div class="section">
+              <h2 class="section-title">Skills</h2>
+              
+              <div class="skill-item">
+                  <h3 class="skill-title">Frontend Development & Programming</h3>
+                  <p class="skill-description"><mark>7+ years of experience</mark> in <mark>JavaScript, TypeScript, Python, and Node.js</mark>. Expert in building scalable web applications using <mark>React, Redux/RTK, React-Query, NextJS</mark>, and modern <mark>ES6+ features</mark>. Proficient in <mark>HTML, CSS, TailWind CSS</mark>, and responsive design principles.</p>
+              </div>
+              
+              <div class="skill-item">
+                  <h3 class="skill-title">Web Technologies & Frameworks</h3>
+                  <p class="skill-description">Extensive experience with <mark>React ecosystem</mark>, <mark>GraphQL integration</mark>, <mark>Django backend development</mark>, and modern build tools. Skilled in creating <mark>component libraries</mark>, implementing <mark>CI/CD pipelines</mark>, and managing state with <mark>Redux/RTK and React-Query</mark>.</p>
+              </div>
+              
+              <div class="skill-item">
+                  <h3 class="skill-title">Testing & Database Management</h3>
+                  <p class="skill-description">Expert in <mark>end-to-end testing frameworks</mark> including <mark>Cypress and Playwright</mark>. Experience with <mark>SQL databases (PostgreSQL, SQLite)</mark>, <mark>SupaBase</mark>, and ensuring high-quality code through <mark>comprehensive testing strategies</mark> and database optimization.</p>
+              </div>
+              
+              <div class="skill-item">
+                  <h3 class="skill-title">Tools & Technologies</h3>
+                  <p class="skill-description"><mark>AWS Services</mark> • <mark>Git/GitHub</mark> • <mark>Linux</mark> • <mark>RESTful APIs</mark> • WordPress • <mark>Web Performance Optimization</mark> • <mark>Accessibility Standards</mark> • jQuery • Selenium/Protractor • <mark>CI/CD Pipelines</mark> • <mark>Agile Development Practices</mark></p>
               </div>
           </div>
           
