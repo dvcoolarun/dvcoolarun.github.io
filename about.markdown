@@ -335,10 +335,6 @@ mark {
               Efficient working both <mark>independently and in a team environment</mark>.
           </div>
           
-          <div class="contact-section">
-              <h3 class="contact-title">Contact me</h3>
-          </div>
-          
           <div class="section">
               <h2 class="section-title">Skills</h2>
               
