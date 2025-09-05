@@ -18,12 +18,13 @@ categories: server
         }
 
         body {
-            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-            background: #0d1117;
-            color: #c9d1d9;
-            line-height: 1.6;
-            padding: 20px;
-            min-height: 100vh;
+            background-color: #2b2b2b;
+    color: #d4d4d4;
+    font-family: "Roboto Mono", monospace;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
         }
 
         .container {
