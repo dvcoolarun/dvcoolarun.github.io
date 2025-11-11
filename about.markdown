@@ -320,7 +320,7 @@ mark {
           </div>
           
           <div class="title-section">
-              <h2 class="job-title"><mark>Frontend Developer</mark></h2>
+              <h2 class="job-title"><mark>Full-Stack Developer</mark></h2>
               <div class="social-icons">
                   <a href="tel:+917206681784" title="Phone">📞</a>
                   <a href="https://github.com/dvcoolarun" title="GitHub">🔗</a>
@@ -330,7 +330,7 @@ mark {
           </div>
           
           <div class="description">
-              Motivated and versatile frontend developer with expertise in <mark>Python, React/Next, and TypeScript</mark>. 
+              Motivated and versatile full-stack developer with expertise in <mark>Python, React/Next, and TypeScript</mark>. 
               Bringing <mark>7+ years of experience</mark> in both <mark>B2B/B2C environments</mark> delivering web applications. 
               Proven track record in <mark>managing teams</mark> and collaborating with startups. Always looking for new 
               challenges and new technologies to learn. Experienced with the <mark>software development life cycle 
@@ -350,7 +350,7 @@ mark {
                   </div>
                   <p class="company-description">Specializes in launching and managing brands on Walmart.com.</p>
                   
-                  <p class="role-info">Frontend Developer • <mark>Dec 2024 – Present</mark></p>
+                  <p class="role-info">Full-Stack Developer • <mark>Dec 2024 – Present</mark></p>
                   <p class="role-description">Currently <mark>leading frontend development initiatives</mark> for e-commerce platform optimization and <mark>team management</mark> using modern web technologies.</p>
                   <ul class="achievements">
                       <li>Engineered an <mark>Item Dimensions feature with live editing and synchronization</mark>, handling both <mark>the frontend & backend</mark> using an iterative approach with stakeholders</li>
@@ -367,7 +367,7 @@ mark {
                   </div>
                   <p class="company-description">Digital company with a primary focus on building software solutions for startups.</p>
                   
-                  <p class="role-info">Frontend Developer • <mark>Dec 2018 – Dec 2024 • 6 yrs</mark></p>
+                  <p class="role-info">Full-Stack Developer • <mark>Dec 2018 – Dec 2024 • 6 yrs</mark></p>
                   <p class="role-description">Led frontend development for <mark>multiple startup projects</mark>, focusing on <mark>conversion optimization</mark>, <mark>component architecture</mark>, and <mark>team mentorship</mark>. Specialized in <mark>TypeScript migration</mark> and modern React development practices.</p>
                   <ul class="achievements">
                       <li>Architected a <mark>Conversion Optimization Tool</mark> that <mark>boosted conversions</mark> through data tracking, proof-of-concept to production, implementing <mark>CI/CD pipelines</mark> and rigorous testing to ensure <mark>high-quality deployments</mark></li>
