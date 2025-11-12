@@ -9,7 +9,6 @@ permalink: /
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 <style>
 body {
-  background-color: #2b2b2b;
   color: #d4d4d4;
   font-family: "Roboto Mono", monospace;
   line-height: 1.5;
