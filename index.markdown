@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /index
+title: Home
+permalink: /
 ---
   
 <link rel="preconnect" href="https://fonts.googleapis.com">
