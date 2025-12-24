@@ -19,12 +19,12 @@ categories: server
 
         body {
             background-color: #2b2b2b;
-    color: #d4d4d4;
-    font-family: "Roboto Mono", monospace;
-    line-height: 1.5;
-    margin: 0;
-    padding: 0;
-    font-size: 16px;
+            color: #d4d4d4;
+            font-family: "Roboto Mono", monospace;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+            font-size: 16px;
         }
 
         .container {
