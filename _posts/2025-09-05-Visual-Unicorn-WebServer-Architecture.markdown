@@ -100,17 +100,16 @@ categories: server
             flex-direction: column;
             gap: 20px;
         }
-
         .client {
             background: #1f2937;
             border: 1px solid #374151;
             color: #10b981;
-            padding: 12px 18px;
+            padding: 6px 9px;
             border-radius: 6px;
             font-family: 'Monaco', monospace;
-            font-size: 0.9em;
+            font-size: 0.6em;
             position: relative;
-            transition: all 0.3s ease;
+            transition: all 0.3s 
         }
 
         .client:hover {
