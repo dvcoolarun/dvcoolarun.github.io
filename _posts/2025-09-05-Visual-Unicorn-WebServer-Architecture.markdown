@@ -27,6 +27,22 @@ categories: server
             font-size: 16px;
         }
 
+        @media screen and (min-width: 800px) {
+          .page-content .wrapper
+                max-width: calc(1200px - (30px * 2));
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+        }
+
+        .page-content .wrapper {
+            max-width: calc(1200px - (30px));
+            margin-right: auto;
+            margin-left: auto;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+
         .container {
             max-width: 1400px;
             margin: 0 auto;
