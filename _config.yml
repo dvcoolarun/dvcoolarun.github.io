@@ -34,7 +34,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: dark
+  skin: light
 
 include: ["_includes/head-custom.html"]
 
