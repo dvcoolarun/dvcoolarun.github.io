@@ -1,4 +1,4 @@
-# 🐃 Thundering Herd Problem — A Visual Guide with Analogies
+# 🐃 
 
 One of the most interesting problems in distributed systems is the **Thundering Herd Problem**.  
 It appears simple at first, but it can easily take down large systems if not handled carefully.
