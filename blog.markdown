@@ -12,7 +12,7 @@ permalink: /blog/
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 <style>
 body {
-  color: #d4d4d4;
+  color: #f5f4ef;
   font-family: "Roboto Mono", monospace;
   line-height: 1.5;
   margin: 0;
