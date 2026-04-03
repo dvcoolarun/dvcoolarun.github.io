@@ -1,5 +1,3 @@
-# System-Design-Isn’t-About-Working-Code-It’s-About-Surviving-Change
-
 > *Sharing this publicly because interviews are humbling — and someone going through the same thing might find it useful.*
 
 I failed a system design round today. The topic: **Cart and Order modeling for an e-commerce / food delivery system.**
