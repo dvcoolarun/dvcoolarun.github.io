@@ -1,4 +1,4 @@
-# 🎯 Event-Driven Architecture — A Visual Guide with Analogies
+# 🎯
 
 One of the most powerful patterns in modern software design is **Event-Driven Architecture (EDA)**.  
 It sounds complex at first — but once you see it through the right analogy, it clicks immediately.
