@@ -42,6 +42,9 @@ header_pages:
   - index.markdown
   - blog.markdown
 
+sass:
+  sass_dir: assets
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
